@@ -1,0 +1,27 @@
+[History]
+1=#P0#=mb	#P1#=Piano1_KeyDown	#P2#=工程1/PianoTest/Piano1_KeyDown	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090705030911	#P7#=0	#P8#=9	.
+2=#P0#=mb	#P1#=Piano1_KeyUp	#P2#=工程1/PianoTest/Piano1_KeyUp	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090705030759	#P7#=0	#P8#=3	.
+3=#P0#=mb	#P1#=GetNote	#P2#=工程1/PianoTest/GetNote	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20090705030711	#P7#=0	#P8#=2	.
+4=#P0#=mb	#P1#=Form_Load	#P2#=工程1/PianoTest/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090705034057	#P7#=0	#P8#=11	.
+5=#P0#=mb	#P1#=Combo1_Click	#P2#=工程1/PianoTest/Combo1_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090705034135	#P7#=0	#P8#=1	.
+6=#P0#=mb	#P1#=ChangeYinSe	#P2#=工程1/Piano/ChangeYinSe	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20090705030417	#P7#=0	#P8#=3	.
+7=#P0#=mb	#P1#=Close_Click	#P2#=工程1/PianoTest/Close_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090705025820	#P7#=0	#P8#=6	.
+8=#P0#=mb	#P1#=GetMidiMu	#P2#=工程1/Piano/GetMidiMu	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20090705034036	#P7#=0	#P8#=174	.
+9=#P0#=mb	#P1#=UserControl_WriteProperties	#P2#=工程1/Piano/UserControl_WriteProperties	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090705023159	#P7#=0	#P8#=5	.
+10=#P0#=mb	#P1#=UserControl_ReadProperties	#P2#=工程1/Piano/UserControl_ReadProperties	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090705020036	#P7#=0	#P8#=2	.
+11=#P0#=mb	#P1#=mYinSe	#P2#=工程1/Piano/mYinSe [Let]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20090705015934	#P7#=0	#P8#=1	.
+12=#P0#=mb	#P1#=mYinSe	#P2#=工程1/Piano/mYinSe [Get]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20090705015914	#P7#=0	#P8#=0	.
+13=#P0#=mb	#P1#=AutoPlay	#P2#=工程1/Piano/AutoPlay [Get]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20090705015856	#P7#=0	#P8#=-1	.
+14=#P0#=mb	#P1#=OpenDevices	#P2#=工程1/Piano/OpenDevices	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20090705015836	#P7#=0	#P8#=5	.
+15=#P0#=mb	#P1#=PlayNote	#P2#=工程1/Piano/PlayNote	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20090705015623	#P7#=0	#P8#=0	.
+16=#P0#=mb	#P1#=PlayMsg	#P2#=工程1/Piano/PlayMsg	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20090705015604	#P7#=0	#P8#=6	.
+17=#P0#=mb	#P1#=selc	#P2#=工程1/Piano/selc	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20090705015503	#P7#=0	#P8#=3	.
+18=#P0#=mb	#P1#=Picture1_Click	#P2#=工程1/Piano/Picture1_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090705011006	#P7#=-2147483640	#P8#=1	.
+19=#P0#=mb	#P1#=UserControl_Initialize	#P2#=工程1/Piano/UserControl_Initialize	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090705010033	#P7#=-2147483640	#P8#=4	.
+20=#P0#=mb	#P1#=unSelc	#P2#=工程1/Piano/unSelc	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20090705005655	#P7#=0	#P8#=-1	.
+21=#P0#=mb	#P1#=Picture1_MouseDown	#P2#=工程1/Piano/Picture1_MouseDown	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090705005607	#P7#=0	#P8#=11	.
+22=#P0#=mb	#P1#=AutoPlay	#P2#=工程1/Piano/AutoPlay [Let]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20090705004942	#P7#=0	#P8#=8	.
+23=#P0#=mb	#P1#=GetPos	#P2#=工程1/Piano/GetPos	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20090705004926	#P7#=0	#P8#=-1	.
+24=#P0#=mb	#P1#=isSelc	#P2#=工程1/Piano/isSelc	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20090705004429	#P7#=0	#P8#=1	.
+25=#P0#=mb	#P1#=Form_Unload	#P2#=工程1/PianoTest/Form_Unload	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090705004416	#P7#=0	#P8#=-1	.
+26=#P0#=mb	#P1#=CloseDevices	#P2#=工程1/Piano/CloseDevices	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20090705003654	#P7#=0	#P8#=1	.
